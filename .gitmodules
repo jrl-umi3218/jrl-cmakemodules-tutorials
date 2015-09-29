@@ -4,3 +4,6 @@
 [submodule "02-dependencies/cmake"]
 	path = 02-dependencies/cmake
 	url = https://github.com/jrl-umi3218/jrl-cmakemodules
+[submodule "03-libraries/cmake"]
+	path = 03-libraries/cmake
+	url = https://github.com/jrl-umi3218/jrl-cmakemodules
