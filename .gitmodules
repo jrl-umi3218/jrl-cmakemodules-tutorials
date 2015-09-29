@@ -7,3 +7,6 @@
 [submodule "03-libraries/cmake"]
 	path = 03-libraries/cmake
 	url = https://github.com/jrl-umi3218/jrl-cmakemodules
+[submodule "04-unittests/cmake"]
+	path = 04-unittests/cmake
+	url = https://github.com/jrl-umi3218/jrl-cmakemodules
